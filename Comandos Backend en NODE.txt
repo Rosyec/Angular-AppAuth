@@ -1,0 +1,5 @@
+npm init -> Nos crea un archivo package.json
+node (index.js) -> abrimos el archivo en consola
+npm run "dev" -> Lanzamo un script que hallamos creado en el archivo package.
+instalar nodemon para que detecte los cambios automaticamente.
+npm i bcryptjs cors dotenv express express-validator jsonwebtoken mongoose -> Intala los paquetes utilizados para crear un backend en Node.
